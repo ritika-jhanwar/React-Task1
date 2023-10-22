@@ -16,7 +16,7 @@ export default function WordCounter() {
         <textarea
           name="form-control"
           id="counter"
-          cols="40"
+          cols="37"
           rows="8"
           value={text}
           onChange={handleTextChange}
